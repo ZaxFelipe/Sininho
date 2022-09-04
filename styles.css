@@ -118,3 +118,7 @@ body {
 .option_item .option_inner.quora .tickmark {
   border-color: #b92b27 transparent transparent #b92b27;
 }
+
+.name {
+  padding-top: 24px;
+  }
